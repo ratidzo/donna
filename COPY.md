@@ -69,3 +69,20 @@
 ### Final CTA
 - Headline: See what Donna can do for your practice.
 - CTA: Book a demo.
+
+___
+
+## Product / Features page
+___
+### Page heading: Donna at work
+
+##### Feature 1 - Contract Review & Risk Flagging
+- Section headline: Every clause, checked against your standars - not generic ones.
+- Body: Donna reviews every contract against the playbook your team has already built -
+        your risk tolerances, your non-negotiables, your preffered language. When something
+        doesn't match, it's flagged immidiately, with a severity level and a suggested alternative,
+        so your team knows exactly what needs attention and what can wait.
+##### Supporting Points
+- Flags are scored by severity - critical, moderate, minor - so review time goes where it matters.
+- Each fla includes a suggested fix, pulled from your own approved language.
+- Nothing gets auto-changed - Donna surfaces the issue, your team makes the call.
