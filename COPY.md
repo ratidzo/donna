@@ -12,7 +12,7 @@
 - Stat line: Trusted by legal teams reviewing 10,000+ contracts a year
 - Logo grid.
 
-### Problem/Pain
+### Problem/Pain Section
 #### Section headline: The way most teams review contracts is broken.
 ##### Body/subpoints
 - Redlining takes hours per contract - and risk still slips through
@@ -34,3 +34,38 @@
 - Feature name: Instant Contract Search
 - Copy: Find any clause, in any contract, in seconds - so legal stops being the bottleneck
         between a deal and a signature.
+
+### Security/Trust Section
+#### Section headline: Built on a secure foundation
+- Body: Donna is designed around the same confidentiality standards your firm already holds itself to -
+        encrypted end-to-end, never used to train external models, and fully auditable
+
+  ##### Supporting points
+  - End-to-end encryption, in transit and at rest
+  - Your data is never used to train shared models
+  - Full audit trail on every review and draft
+  - SOC2-aligned infrastructure
+
+### Testimonials Section
+#### 1. Hero Testimonial (links to Case Study)
+  - Quote : "Donna cut our contract review time in half - and caught two clauses our old process
+    would've missed entirely."
+  - Name: Sarah Chen
+  - Position: VP of Legal Ops
+  - Firm: Northbridge Health.
+
+#### 2. Supporting Testimonial (small firm angle)
+- Quote: "We added Donna instead of adding headcount. It paid for itself in the first month."
+- Name: Marcus Webb
+- Position: Managing Partner
+- Firm: Webb & Ellis LLP.
+
+#### 3. Supporting Testimonial (in-house/ GC angle)
+- Quote: "I finally trust that nothing is slipping through before hitting my desk."
+- Name: Priya Anand
+- Position: General Counsel
+- Firm: Fenwick Outdoor Co.
+
+### Final CTA
+- Headline: See what Donna can do for your practice.
+- CTA: Book a demo.
