@@ -111,10 +111,16 @@ ___
    a real answer fast.
 
 #### Integrations Strip
-- Headline: Donna fits right in your workflow
-- Copy: (list of tools)
+- Section Headline: Fits into how your team already works.
+- Supporting line: Donna connects to the tools your legal team already uses - no new workflow to learn.
+- Logo row label: Works with
+- Logos: DocuSign, Google Drive, Microsoft SharePoint, Salesforce, Slack
 
 #### Final CTA
+- Headline: See Donna handle your contracts
+- Subhead: Book a demo and bring a real contract - we'll show you exactly what Donna catches.
+- CTA: Book a Demo
+___
 
-- Copy: Ready to get started?
-- CTA: Talk to us.
+## Pricing Page
+
