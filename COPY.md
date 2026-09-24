@@ -1,6 +1,46 @@
 # Donna - Copy
 
-## Homepage
+## Navigation
+#### Main nav labels 
+- Product
+- Pricing
+- Security
+- Case Study
+- About
+
+**Persistent nav CTA button:** Book a Demo  
+___
+#### Footer
+- Product
+- Pricing
+- Security
+- Case Study
+- About
+
+**Socials**
+- X
+- Linkedin
+- Youtube
+- Instagram
+
+**Footer tagline** 
+The judgement of a great paralegal. The speed of software.  
+
+**Disclaimer line** (footer-wide reminder, short version of About page)  
+Donna is a concept project for portfolio demonstration purposes. Not a real product or company.  
+**Copyright line**  
+c2026 Donna. All rights reserved
+___
+
+## Demo booking form
+#### Form headline: Let's find you time to show you Donna.  
+**Fields:** Name, Work Email, Company, Team Size (dropdown: ranges)   
+**Submit button:** Request Demo   
+**Confimation:** Thanks - we'll be in touch within one business day.
+
+___
+
+## Landing page
 
 ### Hero
 - Headline: The judgement of your best paralegal. The speed of software.
@@ -202,7 +242,7 @@ needs - a paralegal doesn't see what only a partner should, and every permission
 **A:** Yes - available as part of onboarding for any team that needs one.
 
 ___  
-## Case Study 
+## Case Study page
 #### Page headline: How Northbridge Health cut contract review time in half
 ##### Company snapshot (header block):
 - **Company:** Northbridge Health
@@ -240,3 +280,25 @@ their first month that their manual process had missed in the past.
 **CTA:** Book a Demo   
 
 ___
+
+## About page
+#### Page headline: Why we built Donna
+##### Mission
+Legal temas are expected to catch everything - every clause, every risk, every deadline - 
+with less time than ever to do it. We built Donna because the tools available to legal ops and
+small firms hadn't caught up to that reality: either too generic to trust with real contract work, or 
+built for enterprise legal departments with headcount most teams don't have. Donna is built for the legal
+team of four, not four hundred - grounded in your own precedent, your own playbook, your own standards.
+
+#### Team credibility line:
+Donna was founded by a small team with backgrounds in legal operations and applied AI - 
+people who've sat on both sides of the contract review bottleneck and built the tool they
+wished they'd had.
+
+#### Disclaimer section  
+**Heading:** A note on this project  
+**Copy:** Donna is a concept project, built to demonstrate product marketing, copywriting, and
+interaction design - not a real company. Testimonials, logos, statistics, and customer names 
+shown throughout this site a illustrative examples, not real client data.
+___
+
