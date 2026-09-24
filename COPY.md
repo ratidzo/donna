@@ -73,7 +73,7 @@
 ___
 
 ## Product / Features page
-___
+
 ### Page heading: Donna at work
 
 #### Feature 1 - Contract Review & Risk Flagging
@@ -123,4 +123,120 @@ ___
 ___
 
 ## Pricing Page
+### Page headline: Straightforward pricing for teams who don't have time to guess.
+- Framing line (above tiers): Every plan includes a real conversation first - pricing scales with your team's needs.
+  
+#### Tier 1 - Starter
+- For: Small legal teams and solo practitioners
+- Price: $299/mo
+- Includes:
+    - Contract review & risk flagging
+    - Instant contract search
+    - Up to 3 team seats
+- CTA: Book a Demo
 
+
+#### Tier 2 - Team (highlighted/recommended)
+- For: Mid-market legal ops teams
+- Price: $799/mo
+- Includes:
+  - Everything in Starter
+  - Drafting from precedent
+  - Integrations (DocuSign, Drive, SharePoint, Salesforce, Slack)
+  - Up to 10 team seats
+- CTA: Book a Demo
+- Badge: Most teams choose this
+
+
+#### Tier 3 - Enterprise
+- For: Larger legal departments with custom needs
+- Price: Contact us
+- Includes:
+  - Everything in Team
+  - Custom playbook onboarding
+  - SSO & advanced permissions
+  - Dedicated support
+  CTA: Book a Demo
+___
+
+## Security & Compliance page 
+**Page headline**: Security & Compliance  
+**Framming line**: Donna is built for people who handle sensitive data every day - here's
+                   how we protect it.
+#### 1. Data encryption
+**Headline:** Encrypted end-to-end, always.  
+**Copy:** Every contract, draft, and search query is encrypted in transit and at rest. Your data is
+          never stored or transmitted in plain text - not while it's being reviewed, and not while it's 
+          sitting in your account.
+#### 2. Access controls
+**Headline:** Only the people who should see it, do.  
+**Copy:** Role-based permissions mean access is scoped to what each team member actually
+needs - a paralegal doesn't see what only a partner should, and every permission change is logged.
+
+#### 3. Data retention & deletion
+**Headline:** Your data stays yours - and leaves when you say so.  
+**Copy:** You control how long your data is retained. If you leave Donna, your data is fully deleted on
+          your timeline, not ours - no hidden retention, no fine print.
+
+#### 4. Compliance certifications
+**Headline:** Held to your industry's standards.  
+**Copy:** Donna is built on SOC2-aligned infrastructure, with practices designed around GDPR
+          principles for teams handling regulated data. 
+          
+#### Security & Compliance - FAQ block
+**Section headline:** A few more questions security teams tend to ask.  
+##### Q&A pairs:
+**Q:** Where is our data hosted?  
+**A:** On secure cloud infrastructure with data residency options available for teams with specific
+       regional requirements  
+
+**Q:** Do you use any third-party sub-processors?  
+**A:** Yes - a small, vetted list of infrastructure and processing partners, each held to the same
+      security standards. Full list available on request.  
+
+**Q:** What happens if there's a security incident?  
+**A:** We have a formal incident response process, including timely notification to affected
+       customers and a documented remediation plan.  
+
+**Q:** Can we get a signed DPA (Data Processing Agreement)?  
+**A:** Yes - available as part of onboarding for any team that needs one.
+
+___  
+## Case Study 
+#### Page headline: How Northbridge Health cut contract review time in half
+##### Company snapshot (header block):
+- **Company:** Northbridge Health
+- **Industry:** Healthcare
+- **Legal team size:** 4
+- **Key result:** 50% faster contract turnaround
+
+##### The situation
+Northbridge Health's legal team of four handled every vendor contract, partnership agreement,
+and compliance document for a growing healthcare organization - with no room to add headcount
+as the workload increased.
+
+##### The problem
+**Quote** "We were reviewing dozens of contracts a month, and every one meant hours of manual
+          redlining. We knew things were slipping through - we just didn't have the bandwidth
+          to catch everything."  
+          **Name** -Sarah Chen  
+          **Position** VP of legal ops
+
+##### What changed
+Northbridge brought in Donna to handle first-pass review and flag risk against their existing
+playbook, freeing the team to focus on judgement calls instead of line-by-line reading. Drafting
+new agreements shifted from starting blank to starting from Donna's precedent-based first draft.
+
+##### The result  
+Contract turnaround time dropped by half - and the team caught two contract clauses in
+their first month that their manual process had missed in the past.
+
+**Closing quote**
+  "Donna cut our contract review time in half - and cuaght two contract clauses in our
+  old process would've missed entirely."  
+  **Name** - Sarah Chen, VP of Legal Ops, Northbridge Health
+
+**CTA Headline:** See Donna at Work  
+**CTA:** Book a Demo   
+
+___
