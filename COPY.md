@@ -302,3 +302,34 @@ interaction design - not a real company. Testimonials, logos, statistics, and cu
 shown throughout this site a illustrative examples, not real client data.
 ___
 
+## Cookie consent banner
+**Copy:** We use cookies to understand how visitors use this site and to improve your experience.
+          By continuing, you agree to our use of cookies.  
+**Buttons:** Accept / Manage Preferences / Neccessary only / Reject all.
+___
+
+## Privacy Policy page
+#### Page headline: Privary Policy
+**Last updated:** Last update: Month, Year  
+
+##### Information we collect
+- Contact information you provide (e.g. name, email, company) when booking a demo or contacting us
+- Usage data collected automatically (pages visited, time on site, general location) via analytics tools
+
+##### How we use it
+- To respond to demo requests and inquiries
+- To improve the site and understand hwo it's used
+- We do not sell your information to third parties
+
+##### Data retention
+We retain information only as long as necessary for the purposes above, or as required by law.
+
+##### Your rights
+You may request access to, correction of, or deletion of your personal information at any time
+by contacting us.
+
+##### Contact
+Questions about this policy can be directed to example.email.com
+
+##### Disclaimer
+**This is illustrative policy language for a concept project, not a legally binding document.**
